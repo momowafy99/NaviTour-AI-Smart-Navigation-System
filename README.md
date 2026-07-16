@@ -14,7 +14,7 @@ NaviTour is an integrated smart-mobility platform for Egyptian cities (primary d
 | 🚀 Project Demo | [Watch on YouTube](https://youtu.be/n-Ral8fcr9s?si=qZd03gKK8qz2xhVa) |
 | 🇪🇬 Project Walkthrough (Arabic) | [Watch on YouTube](https://youtu.be/jm6ERK093Ao?si=n12rSkmAdbBUUugY) |
 | 🇬🇧 Project Walkthrough (English) | [Watch on YouTube](https://youtu.be/XVNyL1QriRQ?si=_al6s0K2rhB-SPZj) |
-|  NaviTour Presentation | [Click on Link](https://canva.link/84pv78huo118i8k) |
+| 🔗 NaviTour Presentation | [Click on Canva Link](https://canva.link/84pv78huo118i8k) |
 ---
 
 ## ✨ Key Features
